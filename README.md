@@ -4,3 +4,6 @@ I've got a degree as a Civil Engineer but only worked for two years after finish
 The last course of the 4 that make up the Full Stack Development career have just begun and I am looking forward to learning a lot, finishing the course and starting a new life :)
 You can visit each of the 3 final projects that I've developed during the courses in the list of repositories. 
 - 📫 How to reach me: my email address is amneris.calle at gmail.com
+
+## My tech stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nodejs,git,materialui,postman,react,mongodb,mysql)](https://skillicons.dev)
